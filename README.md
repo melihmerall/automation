@@ -1,18 +1,15 @@
-# Automation
-company data automation. There is a .exe file. You can download and you can examine. 
 
-## information
+# COMPANY AUTOMATİON - BASİC TYPE
+Company data automation. There is a .exe file. You can download and you can examine. 
+## Information
 I used PyQt5 technology with Qt designer. Explanations are written on the codes. <br/>
 This is a desktop application that records the entered information into the database.
 
-##### COMPANY AUTOMATİON - BASİC TYPE
-Company data automation. There is a .exe file. You can download and you can examine. 
-
 ## Table of contents
-* [General info](#General-info)
+* [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Contact](#Contact)
+* [Contact](#contact)
 
 ## General info
 
