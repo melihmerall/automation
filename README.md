@@ -21,7 +21,7 @@ It can be improved, but I wanted to do it as an example. I wanted to answer the 
 ![Uploading foto1.png](https://user-images.githubusercontent.com/73183608/118277825-e2225f00-b4d1-11eb-8d96-dfaeb9dd3537.png)
 
 ## Technologies
-* Pyhton
+* Python
 * PyQt5
 * Qt Designer
 
