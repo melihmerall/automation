@@ -20,8 +20,6 @@ It can be improved, but I wanted to do it as an example. I wanted to answer the 
 ## Screenshots
 ![Uploading foto1.png](https://user-images.githubusercontent.com/73183608/118277825-e2225f00-b4d1-11eb-8d96-dfaeb9dd3537.png)
 
-![foto2](https://user-images.githubusercontent.com/73183608/118278121-480ee680-b4d2-11eb-9518-7d08e866f98a.png)
-
 ## Technologies
 * Pyhton
 * PyQt5
