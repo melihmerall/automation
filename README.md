@@ -1,10 +1,13 @@
 
 # COMPANY AUTOMATİON - BASİC TYPE
-Company data automation. There is a .exe file. You can download and you can examine. 
-Turkish<br>
+Company data automation. There is a .exe file. You can download and you can examine.<br>
+<br>
+#### Turkish
 Kodları türkçe değişkenler kullanarak yazdım çünkü bu deneme amaçlı yaptığım ufak bir proje, kısa sürede yaptım
 Amacım, python ile bir otomasyon nasıl yazılır sorusuna örnek çıkartmaktı.
-English.<br>
+<br>
+#### English
+
 I wrote the codes using Turkish variables because this is a small project I did for trial purposes, I did it in a short time.
 My goal was to give an example of how to write an automation with python.
 ## Information
